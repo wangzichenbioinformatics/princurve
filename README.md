@@ -1,11 +1,11 @@
 [![Downloads](https://pepy.tech/badge/prinpy)](https://pepy.tech/project/prinpy)
-# prinPy
-`pip install prinpy`<br>
+# princurve
+`pip install princurve`<br>
 <br>
 Inspired by [this R package](https://github.com/rcannood/princurve), prinPy brings principal curves to Python. 
 
-## What prinPy does
-PrinPy has local and global algorithms for computing principal curves. 
+## What  princurve does
+ princurve has local and global algorithms for computing principal curves. 
 
 ## What is a Principal Curve?
 A principal curve is a smooth n-dimensional curve that passes through the middle of a dataset. Principal curves are a dimensionality reduction tool analogous to a nonlinear principal component. PCs have uses in GPS data, image recognition, bioinformatics, and so much more. 
@@ -57,3 +57,4 @@ https://doi.org/10.1016/j.cam.2015.11.041.
 
 \[2\] Mark Kramer, Nonlinear Principal Component Analysis Using
 Autoassociative Neural Networks 
+\[3\]Hastie, T. and Stuetzle, W., Principal Curves, JASA, Vol. 84, No. 406 (Jun., 1989), pp. 502-516, DOI: 10.2307/2289936 (PDF)
