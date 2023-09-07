@@ -57,4 +57,5 @@ https://doi.org/10.1016/j.cam.2015.11.041.
 
 \[2\] Mark Kramer, Nonlinear Principal Component Analysis Using
 Autoassociative Neural Networks 
+
 \[3\]Hastie, T. and Stuetzle, W., Principal Curves, JASA, Vol. 84, No. 406 (Jun., 1989), pp. 502-516, DOI: 10.2307/2289936 (PDF)
