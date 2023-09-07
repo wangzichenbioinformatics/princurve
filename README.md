@@ -27,7 +27,7 @@ The sole global algorithm as of now performs nonlinear principal component analy
 The local algorithms will be better for tightly bunched data, such as digit recogniition or GPS data. The global algorithm is better suited for "clouds" of data or sparsely represented data.
 
 ## Quick-Start
-View the quickstart notebook [here](https://github.com/artusoma/prinPy/blob/master/prinPy%20quickstart.ipynb). Docs will be coming soon!
+View the quickstart notebook [here](https://github.com/wangzichenbioinformatics/princurve/blob/main/princurve%20quickstart.ipynb). Docs will be coming soon!
 
 ```python
 # Example of local PC fitting
