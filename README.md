@@ -2,7 +2,7 @@
 # princurve
 `pip install princurve`<br>
 <br>
-Inspired by [this R package](https://github.com/rcannood/princurve), prinPy brings principal curves to Python. 
+Inspired by [this R package](https://github.com/rcannood/princurve), princurve brings principal curves to Python. 
 
 ## What  princurve does
  princurve has local and global algorithms for computing principal curves. 
